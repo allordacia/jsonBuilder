@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: testLibrary, Configuration: Release Any CPU ------
+1>  testLibrary -> C:\Users\wahl-alien\source\repos\testLibrary\testLibrary\bin\Release\testLibrary.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

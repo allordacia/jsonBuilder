@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: testLibrary, Configuration: Debug Any CPU ------
+1>C:\Users\wahl-alien\source\repos\testLibrary\testLibrary\Class1.cs(23,19,23,25): error CS1061: 'TextBox' does not contain a definition for 'insert' and no accessible extension method 'insert' accepting a first argument of type 'TextBox' could be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\wahl-alien\source\repos\testLibrary\testLibrary\Class1.cs(14,17,14,22): warning CS0649: Field 'codebase._tbox' is never assigned to, and will always have its default value null
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
